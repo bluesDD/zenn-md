@@ -1,2 +1,9 @@
 node_modules
 .DS_Store
+.bundle
+.vscode
+vendor
+*.md
+*.rb
+docker*
+Gemfile*
